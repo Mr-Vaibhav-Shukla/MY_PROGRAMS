@@ -17,3 +17,11 @@ int main()
         else
                 printf("\n %d is not a armstrong number\n",n);
 }
+
+*************************************************************************************
+OUTPUT:
+
+enter any positive integer number
+153     
+153 is a armstrong number
+
