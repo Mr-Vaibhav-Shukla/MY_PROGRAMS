@@ -23,7 +23,7 @@ temp=*a;
 *b=temp;
 printf("\n Value of a=%d,Value of b=%d after swaping\n",*a,*b);
 }
-*****************************************************************************
+/*****************************************************************************
 OUTPUT:
 
 Enter value for x:6
@@ -42,3 +42,4 @@ Enter value for x:6
 
  After returning from swap function
  Value of x=7,value of y=6
+ *********************************************************************************/
