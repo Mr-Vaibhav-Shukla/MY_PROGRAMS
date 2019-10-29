@@ -24,7 +24,7 @@ b=temp;
 printf("\n Value of a=%d,Value of b=%d after swaping\n",a,b);
 }
 
-********************************************************************
+/********************************************************************
 OUTPUT:
 
 Enter value for x:8
@@ -38,6 +38,7 @@ Enter value for x:8
  Inside the function 
 
  Value of a=8,Value of b=6 before swaping
+ ***********************************************************************/
 
  Value of a=6,Value of b=8 after swaping
 
