@@ -38,9 +38,9 @@ Enter value for x:8
  Inside the function 
 
  Value of a=8,Value of b=6 before swaping
- ***********************************************************************/
-
  Value of a=6,Value of b=8 after swaping
 
  After returning from swap function
  Value of x=8,value of y=6
+ 
+ ********************************************************************************/
