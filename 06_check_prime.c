@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 int n,count=0;
 printf("enter the number which you want check to wheather prime or not\n");
@@ -20,6 +20,7 @@ printf("number is prime\n");
 else 
 printf("number is composite\n");
 }
+  return 0;
 }
 
 /******************************************************************************
